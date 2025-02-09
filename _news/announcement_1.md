@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-01-22 00:00
+date: 2025-01-22 00:00:00-0000
 inline: true
 related_posts: false
 title: The Dapp Portal service I participated in developing has been launched!
