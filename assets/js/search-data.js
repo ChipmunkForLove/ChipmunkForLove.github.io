@@ -431,16 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-official-line-news-link-️-https-linecorp-com-en-pr-news-global-20250122-this-service-is-a-decentralized-apps-related-platform-integrated-with-line-and-i-m-involved-in-its-promotion-in-just-a-week-the-number-of-active-users-surpassed-100-000-and-in-two-weeks-the-number-of-paying-users-exceeded-150-000-as-a-promotion-reward-we-distributed-kaia-tokens-and-i-participated-in-developing-the-token-claim-process-i-m-thrilled-that-the-service-is-doing-so-well",
+          title: 'Official LINE news link ⬇️ https://linecorp.com/en/pr/news/global/20250122/ This service is a Decentralized Apps-related platform...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
