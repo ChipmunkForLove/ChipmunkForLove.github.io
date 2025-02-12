@@ -61,6 +61,10 @@
     }
   ],
   "interests": [
-    "data visualization", "HCI"
+    {
+      "name": "Computer Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["data visualization", "HCI"]
+    }
   ]
 }
