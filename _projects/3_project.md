@@ -2,15 +2,15 @@
 layout: page
 title: project 2
 description: CryptoCurrency brokerage/exchange platform in LINE japan
-img: assets/img/project/bitmax_web.png
+img: assets/img/project/dosi.png
 importance: 1
 category: WORK
 ---
-service homepage: https://www.bitmax.me/
+service homepage: https://www.dosi.world/
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project/bitmax.png" title="bitmax service page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/dosi_mobile.png" title="boostore usage example" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br/>
