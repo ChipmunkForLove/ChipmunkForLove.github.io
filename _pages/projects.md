@@ -5,7 +5,7 @@ permalink: /projects/
 description: my tiny projects
 nav: true
 nav_order: 3
-display_categories: ['SIDE PROJECT']
+display_categories: ['SIDE PROJECT','WORK']
 horizontal: true
 ---
 

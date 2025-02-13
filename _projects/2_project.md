@@ -4,7 +4,7 @@ title: project 2
 description: CryptoCurrency brokerage/exchange platform in LINE japan
 img: assets/img/project/bitmax.png
 importance: 1
-category: work
+category: WORK
 giscus_comments: true
 ---
 service homepage: https://www.bitmax.me/
