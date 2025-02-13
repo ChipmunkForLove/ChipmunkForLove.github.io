@@ -3,13 +3,14 @@ layout: page
 title: Boostore
 description: Cloud storage service using Amazon S3
 img: assets/img/project/boostore.png
-importance: 1
+importance: 2
 category: SIDE PROJECT
 related_publications: false
 ---
 
-<span><i class="fa-brands fa-square-github"></i> https://github.com/boostcampwm-2021/web18-BooStore</span>
-<span><i class="fa-solid fa-video"></i> https://www.youtube.com/watch?v=e-2XRK0MUn8</span>
+<span><a href="https://github.com/boostcampwm-2021/web18-BooStore" target="_blank"><i class="fa-brands fa-square-github"></i></a>
+<br/>
+<span><a href="https://www.youtube.com/watch?v=e-2XRK0MUn8" target="_blank"><i class="fa-solid fa-video"></i></a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,3 +23,6 @@ related_publications: false
 
 Boostore is a Cloud Storage project presented as the final project of Naver Connect Foundation Boostcamp. It utilizes skills such as React, Amazon S3, and Docker. The project has undergone performance testing to ensure stable uploads of large files.
 
+---
+<h6>My role in this project</h6>
+<p>Web development, System development</p>
