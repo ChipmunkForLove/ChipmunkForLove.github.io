@@ -15,12 +15,12 @@ service homepage: https://www.dosi.world/
 </div>
 <br/>
 <h6>Key feature</h6>
-<ol>
+<ul>
     <li>Added CrytoCurrency Exchange trade</li>
     <li>Added Margin trading for Brokerage trade</li>
     <li>Replaced dependency on external bank service (LINE PAY) with an in-app bank registration service.</li>
-</ol>
-
+</ul>
+<br/>
 ---
 <h6>My role in this project</h6>
 <p>Web application development</p>

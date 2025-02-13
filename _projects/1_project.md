@@ -22,7 +22,7 @@ related_publications: false
 </div>
 
 Boostore is a Cloud Storage project presented as the final project of Naver Connect Foundation Boostcamp. It utilizes skills such as React, Amazon S3, and Docker. The project has undergone performance testing to ensure stable uploads of large files.
-
+<br/>
 ---
 <h6>My role in this project</h6>
 <p>Web development, System development</p>
