@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: BITMAX
 description: CryptoCurrency brokerage/exchange platform in LINE japan
 img: assets/img/project/bitmax_web.png
 importance: 1
