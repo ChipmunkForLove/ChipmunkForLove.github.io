@@ -385,8 +385,8 @@ ninja.data = [{
           description: "Cloud storage service using Amazon S3",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-bitmax",
+          title: 'BITMAX',
           description: "CryptoCurrency brokerage/exchange platform in LINE japan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
