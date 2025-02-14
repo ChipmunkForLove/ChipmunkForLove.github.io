@@ -390,8 +390,8 @@ ninja.data = [{
           description: "CryptoCurrency brokerage/exchange platform in LINE japan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-dosi-market",
+          title: 'DOSI Market',
           description: "CryptoCurrency brokerage/exchange platform in LINE japan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
