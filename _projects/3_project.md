@@ -10,7 +10,7 @@ service homepage: https://www.dosi.world/
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project/dosi_mobile.png" title="boostore usage example" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/dosi_mobile.png" title="boostore usage example" class="img-fluid rounded z-depth-1 mx-auto d-block max-width:50%;" %}
     </div>
 </div>
 <br/>
