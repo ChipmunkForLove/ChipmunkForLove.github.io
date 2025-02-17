@@ -392,7 +392,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-dosi-market",
           title: 'DOSI Market',
-          description: "CryptoCurrency brokerage/exchange platform in LINE japan",
+          description: "Digital Item trading platform",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
