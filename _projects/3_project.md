@@ -10,11 +10,11 @@ service homepage: https://www.dosi.world/
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/project/dosi_mobile.png" alt="image" style="width: 30%"/>
+        {% include figure.liquid loading="eager" path="assets/img/project/dosi_mobile.png" title="bitmax service page" class="img-fluid rounded z-depth-1" style="width:30%" %}
     </div>
 </div>
 <br/>
-<h6>Key feature</h6>
+<h6>Key feature I participated</h6>
 <ol>
     <li>Developed home UI/UX</li>
     <li>Developed game promotion page</li>

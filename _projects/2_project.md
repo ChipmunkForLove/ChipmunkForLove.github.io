@@ -14,7 +14,7 @@ service homepage: https://www.bitmax.me/
     </div>
 </div>
 <br/>
-<h6>Key feature</h6>
+<h6>Key feature I participated</h6>
 <ol>
     <li>Added CrytoCurrency Exchange trade</li>
     <li>Added Margin trading for Brokerage trade</li>
