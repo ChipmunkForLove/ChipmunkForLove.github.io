@@ -2,7 +2,7 @@
 layout: page
 title: DApp Portal
 description: 
-img: assets/img/project/dpp.png
+img: assets/img/project/dapp.png
 importance: 1
 category: WORK
 ---
