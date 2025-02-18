@@ -397,7 +397,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-dapp-portal",
           title: 'DApp Portal',
-          description: "",
+          description: "LINE in-app service to explore diverse range of mini-Dapps (decentralized applications)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-7",
