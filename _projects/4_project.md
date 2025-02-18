@@ -1,12 +1,12 @@
 ---
 layout: page
 title: DApp Portal
-description: 
+description: LINE in-app service to explore diverse range of mini-Dapps (decentralized applications)
 img: assets/img/project/dapp.png
 importance: 1
 category: WORK
 ---
-service homepage: https://www.dosi.world/
+service homepage: https://www.dappportal.io/
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
