@@ -30,8 +30,24 @@
     }
   ],
   "certificates": [
+    {
+      "name": "Boostcamp web/mobile",
+      "date": "2021.08-2021.12",
+      "issuer": "Naver Connect Foundation",
+      "url": "https://boostcamp.connect.or.kr"
+    }
   ],
   "skills": [
+    {
+      "name": "Web development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "React",
+        "Javascript",
+        "HTML",
+        "css"
+      ]
+    }
   ],
   "languages": [
     {
