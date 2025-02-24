@@ -24,8 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a software engineer at [LINE](https://linecorp.com/en/business/service/). Prior to LINE engineer, I received B.A in Aesthetics and B.A in Information Science from [Seoul National University](https://en.snu.ac.kr/index.html).
-On weekdays, I work on developing blockchain-related services, and on weekends, I go surfing. Recently, I've been getting into HCI and AI, so I'm taking my time learning and understanding these fields.
+Hi, my name is Yoonyoung Kweon. I'm a software engineer at [LINE](https://linecorp.com/en/business/service/). 
+I work on developing blockchain-related web services, usually with React. 
+Recently, I've been getting into HCI and AI, so I'm taking my time learning and understanding these fields.
+
+Prior to LINE engineer, I received B.A in Aesthetics and B.A in Information Science from [Seoul National University](https://en.snu.ac.kr/index.html).
 
 
 
