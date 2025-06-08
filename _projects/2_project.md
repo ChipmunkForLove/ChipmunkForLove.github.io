@@ -1,26 +1,59 @@
 ---
 layout: page
 title: BITMAX
-description: CryptoCurrency brokerage/exchange platform in LINE japan
+description: cryptocurrency trading platform in LINE Japan messenger.
 img: assets/img/project/bitmax_web.png
 importance: 1
 category: WORK
 ---
-service homepage: https://www.bitmax.me/
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project/bitmax.png" title="bitmax service page" class="img-fluid rounded z-depth-1" %}
+<style>
+    .row {
+        justify-content: center
+    }
+    .col-sm-3 {
+        padding: 0;
+    }
+    .link {
+        color: var(--global-theme-color);
+        text-decoration: underline;
+    }
+    .bold {
+        font-weight: 500;
+    }
+</style>
+<div class="row" >
+    <div class="col-sm-3">
+        {% include figure.liquid loading="eager" path="assets/img/project/bitmax/screenshot1.png" title="bitmax service page" %}
+    </div>
+    <div class="col-sm-3">
+        {% include figure.liquid loading="eager" path="assets/img/project/bitmax/screenshot2.png" title="bitmax service page" %}
+    </div>
+    <div class="col-sm-3">
+        {% include figure.liquid loading="eager" path="assets/img/project/bitmax/screenshot3.png" title="bitmax service page" %}
+    </div>
+</div>
+<div class="row"> 
+    <div class="col-sm-3">
+        {% include figure.liquid loading="eager" path="assets/img/project/bitmax/screenshot4.png" title="bitmax service page" %}
+    </div>
+    <div class="col-sm-3">
+        {% include figure.liquid loading="eager" path="assets/img/project/bitmax/screenshot5.png" title="bitmax service page" %}
+    </div>
+    <div class="col-sm-3">
+        {% include figure.liquid loading="eager" path="assets/img/project/bitmax/screenshot6.png" title="bitmax service page"%}
     </div>
 </div>
 <br/>
-<h6>Key feature I participated</h6>
-<ol>
-    <li>Added CrytoCurrency Exchange trade</li>
-    <li>Added Margin trading for Brokerage trade</li>
-    <li>Replaced dependency on external bank service (LINE PAY) with an in-app bank registration service.</li>
-</ol>
-
----
-<h6>My role in this project</h6>
-<p>Web application development</p>
+<p><span class="bold">Service Landing Page:&nbsp;&nbsp;</span><span><a href="https://www.bitmax.me" target="_blank" class="link">https://www.bitmax.me</a></span></p>
+<p class="bold">Key feature I participated</p>
+<ul>
+    <li>Cryptocurrency exchange trading</li>
+    <li>Margin trading</li>
+    <li>Blog/News</li>
+    <li>Migration from external bank service (LINE PAY) to in-app bank registration service.</li>
+</ul>
+<p class="bold">Role</p>
+<ul>
+    <li>Web development</li>
+</ul>
