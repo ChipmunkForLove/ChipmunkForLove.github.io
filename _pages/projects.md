@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: my big work projects and tiny side projects
+description: My big-time work projects and bite-sized side projects
 nav: true
 nav_order: 3
 display_categories: ['WORK','SIDE PROJECT']
