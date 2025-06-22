@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Yoonyoung Kweon",
-    "label": "Engineer, Philosopher",
+    "label": "SW Engineer",
     "image": "",
     "email": "chipmunk4lov@gmail.com",
     "url": "https://chipmunkforlove.github.io",
-    "summary": "From philosopher to Engineer, and now I am trying to learn about AI and HCI more. What's next?"
+    "summary": "From philosopher to Engineer. What's next?"
   },
   "work": [
     {
       "name": "LINE NEXT Corp.",
       "position": "Software Engineer",
       "url": "https://linecorp.com/en/business/service/",
-      "startDate": "2011-02-01",
+      "startDate": "2022-02-14",
       "endDate": "present",
       "summary": "Development of blockchain based services.",
       "highlights": ["Web, WebApp, NFT, CryptoCurrency Exchange"]
@@ -43,7 +43,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "React",
-        "Javascript",
+        "Typescript",
         "HTML",
         "css"
       ]
@@ -51,13 +51,8 @@
   ],
   "languages": [
     {
-      "language": "JavsScript",
+      "language": "JavaScript",
       "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Python",
-      "fluency": "Fluent",
       "icon": ""
     },
     {
@@ -80,7 +75,7 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": ["data visualization", "HCI"]
+      "keywords": ["data visualization", "AI"]
     }
   ]
 }
