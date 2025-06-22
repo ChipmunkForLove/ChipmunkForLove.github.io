@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "my big work projects and tiny side projects",
+          description: "My big-time work projects and bite-sized side projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -387,7 +387,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-bitmax",
           title: 'BITMAX',
-          description: "CryptoCurrency brokerage/exchange platform in LINE japan",
+          description: "cryptocurrency trading platform in LINE Japan messenger.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-dosi-market",
