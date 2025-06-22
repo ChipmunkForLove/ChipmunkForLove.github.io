@@ -2,8 +2,7 @@
 layout: page
 title: BITMAX
 description: cryptocurrency trading platform in LINE Japan messenger.
-img: assets/img/project/bitmax_web.png
-importance: 1
+img: assets/img/project/bitmax/bitmax.png
 category: WORK
 ---
 
