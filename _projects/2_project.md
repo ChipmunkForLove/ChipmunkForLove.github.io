@@ -2,7 +2,7 @@
 layout: page
 title: BITMAX
 description: cryptocurrency trading platform in LINE Japan messenger.
-img: assets/img/project/bitmax/bitmax.png
+img: /assets/img/project/bitmax/bitmax.png
 category: WORK
 ---
 
@@ -19,6 +19,10 @@ category: WORK
     }
     .bold {
         font-weight: 500;
+    }
+    .date {
+        font-style: italic;
+        color: var(--global-theme-color);
     }
 </style>
 <div class="row" >
@@ -56,3 +60,4 @@ category: WORK
 <ul>
     <li>Web development</li>
 </ul>
+<p class="date">April 2022 - present</p>
