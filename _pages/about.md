@@ -26,7 +26,7 @@ latest_posts:
 
 Hi, my name is Yoonyoung Kweon. I'm a software engineer at [LINE](https://linecorp.com/en/business/service/). 
 I work on developing blockchain-related web services, usually with React and Typescript.
-Lately, I’ve been exploring the fields of AI and data visualization, taking the time to deeply understand and learn new concepts.
+Lately, I’ve been exploring the fields of AI and data visualization, and I’m very excited about this new journey!
 
 Prior to LINE engineer, I received B.A in Aesthetics and B.A in Information Science from [Seoul National University](https://en.snu.ac.kr/index.html).
 

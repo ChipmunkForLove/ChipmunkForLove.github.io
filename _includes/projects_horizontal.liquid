@@ -1,12 +1,28 @@
 <style>
  .project-card {
-   height: 200px;
+   min-height: 200px;
+   height: 100%;
    box-shadow: none;
    border: 1px solid #999999;
+   flex-direction: row;
  }
  .project-card-image {
-    height: 100%;
-    object-fit: cover;
+   height: 100%;
+   object-fit: cover;
+   border-radius: 0.25rem;
+ }
+ .project-card-title {
+    font-size: 1.5rem;
+    font-weight: 300;
+ }
+ .project-card-text {
+     overflow: hidden;
+      white-space: normal;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      word-break: keep-all;
  }
 </style>
 
@@ -16,13 +32,16 @@
       <div class="row no-gutters">
         {% if project.img %}
           <div class="col-md-6">
-            {% include figure.liquid loading="eager" path=project.img sizes="(min-width: 768px) 156px, 50vw" alt="project thumbnail" class="project-card-image" %}
+            <img src="{{ project.img }}"
+                 class="project-card-image"
+                 alt="project thumbnail"
+                 loading="eager"/>
           </div>
         {% endif %}
         <div class="{% if project.img %}col-md-6{% else %}col-md-12{% endif %}">
           <div class="card-body">
-            <h3 class="card-title">{{ project.title }}</h3>
-            <p class="card-text">{{ project.description }}</p>
+            <h3 class="project-card-title">{{ project.title }}</h3>
+            <p class="project-card-text">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               {% if project.github %}
                 <div class="github-icon">
